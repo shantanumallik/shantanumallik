@@ -31,9 +31,9 @@
  
 ## 
 <p align="center">
-<img src ="http://github-readme-streak-stats.herokuapp.com?user=apoorva-aa&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
+<img src ="http://github-readme-streak-stats.herokuapp.com?user=shantanumallik&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
  </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=apoorva-aa&&style=flat-square) 
+![Profile Views](https://komarev.com/ghpvc/?username=shantanumallik&&style=flat-square) 
  
   
