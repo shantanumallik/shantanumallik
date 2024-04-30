@@ -4,9 +4,7 @@
 **apoorva-aa/apoorva-aa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About me
-  - I am an upcoming third-year Computer Science and Engineering student at IIIT Delhi.
-  - I am currently exploring the fields of Machine Learning, Security and Quantum Computing.
-  - When I'm not coding you'll find me in a corner with a book in my hand!
+  - I am an M.Tech CSE student at IIIT Delhi.
   - Connect with me [here](https://www.linkedin.com/in/shantanu-mallik/)
 
 ## Languages and Tools
