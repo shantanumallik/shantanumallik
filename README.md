@@ -5,7 +5,7 @@
 -->
 ## About me
   - I am an M.Tech CSE student at IIIT Delhi.
-  - Connect with me [here](https://www.linkedin.com/in/shantanu-mallik/)
+  - Connect with me [here](https://www.linkedin.com/in/shantanumallik/)
 
 ## Languages and Tools
 <p>
